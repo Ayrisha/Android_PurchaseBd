@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PurchaseBd</string>
+    <string name="id_pyrchase">Id pyrchase:</string>
+    <string-array name="name_table">
+        <item>Purchases</item>
+        <item>Products</item>
+        <item>Buyers</item>
+        <item>Statistic for product</item>
+    </string-array>
+</resources>
